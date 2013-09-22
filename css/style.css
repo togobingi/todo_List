@@ -1,0 +1,31 @@
+header {
+	font-family:century gothic;
+
+}
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+	padding:50px;
+	background:	 #DCDDD8;
+	border-radius:10px;
+}
+
+.todo_description{
+	
+	margin:3px;
+	width:50%;
+	color:#D74B4B;
+	font-size:24px;
+	font-family:helvetica;
+	
+	}
+	
+.check_todo {
+	float:left;
+}
+
+.todo_description.highlight {
+
+	text-decoration:line-through;
+}
